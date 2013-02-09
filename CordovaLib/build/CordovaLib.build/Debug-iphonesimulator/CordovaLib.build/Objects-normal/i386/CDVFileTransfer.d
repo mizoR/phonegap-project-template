@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVFileTransfer.m \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDV.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVAvailability.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVPlugin.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVViewController.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVWhitelist.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVURLProtocol.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVAccelerometer.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVBattery.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVCamera.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVCapture.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVFile.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVConnection.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVReachability.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVContact.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVContacts.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVDebug.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVDebugConsole.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVDevice.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVFileTransfer.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVLocation.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVNotification.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVSound.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVSplashScreen.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVLocalStorage.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVInAppBrowser.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/NSArray+Comparisons.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/NSData+Base64.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/NSDictionary+Extensions.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/UIDevice+Extensions.h \
+  /Users/ryutaro/Developments/PhoneGAP/project/CordovaLib/Classes/CDVJSON.h
